@@ -7,18 +7,28 @@
 Description:
 450+ websites including
 📈 Google
-🔒 Medium 
+
+🔒 Medium
+
 ✅ APNews 
+
 🚀 Benzinga 
+
 🚀 Market Watch
+
 🚀 MenaFN 
+
 ✅ Tumblr
+
 ✅ Mastodon
+
 ✅ Reddit 
+
 
 🚀 Binance Video Feed 🆕
 
 ✅Binance Press 
+
 ✅️Huobi Press
 ✅Gate io Press
 ✅️Bing X Press
